@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  MixColor
+
+  Created by nikita on 31.10.2023.
+  
+*/
+"Choose how many colors you want to mix" = "Выберите, сколько цветов вы хотите смешать";
+"2" = "2";
+"3" = "3";
+"4" = "4";
+"Red" = "Красный";
+"Green" = "Зеленый";
+"Blue" = "Синий";
+"Yellow" = "Желтый";
+"Purple" = "Фиолетовый";
+"Brown" = "Коричневый";
+"Lime" = "Лаймовый";
+"Purple1" = "Пурпурный";
+"Ash-blue" = "Аспидно-синий";
+"White" = "Белый";
+"Orange" = "Оранжевый";
+"Black" = "Черный";
+"Blue" = "Голубой";
+"Purple" = "Сиреневый";
+"Gray" = "Серый";
+"Pink" = "Розовый";
+"Yellow" = "Золотой";
+"Gray" = "Серебряный";
+"Light Blue" = "Бирюзовый";
+"Indigo" = "Индиго";
+"Mixed Color" = "Смешанный цвет";
+"Mix" = "Смешивание";
+"Unknown" = "Неизвестный";
+

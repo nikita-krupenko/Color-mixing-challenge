@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  MixColor
+
+  Created by nikita on 31.10.2023.
+  
+*/
+"Choose how many colors you want to mix" = "Choose how many colors you want to mix";
+"2" = "2";
+"3" = "3";
+"4" = "4";
+"Red" = "Red";
+"Green" = "Green";
+"Blue" = "Blue";
+"Yellow" = "Yellow";
+"Purple" = "Purple";
+"Brown" = "Brown";
+"Lime" = "Lime";
+"Purple" = "Purple";
+"Ash-blue" = "Ash-blue";
+"White" = "White";
+"Orange" = "Orange";
+"Black" = "Black";
+"Blue" = "Blue";
+"Purple1" = "Purple";
+"Gray" = "Gray";
+"Pink" = "Pink";
+"Yellow" = "Yellow";
+"Gray" = "Gray";
+"Light Blue" = "Light Blue";
+"Indigo" = "Indigo";
+"Mixed Color" = "Mixed Color";
+"Mix" = "Mix";
+"Unknown" = "Unknown";
