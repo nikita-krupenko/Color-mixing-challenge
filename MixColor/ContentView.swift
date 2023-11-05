@@ -9,6 +9,7 @@
 
 import SwiftUI
 
+
 struct ContentView: View {
     @State var color1: String = "Red"
     @State var color2: String = "Red"
